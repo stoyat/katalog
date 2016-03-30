@@ -1,0 +1,157 @@
+*{
+	padding:0; margin:0; outline:none;
+	}
+img{
+	border:0;
+	}
+td{
+	vertical-align:top;
+	}
+.clr{
+	clear:both;
+	}		
+.karkas-main{
+	 max-width:1250px; margin:0 auto;
+	}
+	
+	.main{
+		width:1000px; margin:0 auto;
+		}
+	.header{
+		position:relative; height:320px;
+		}		
+	.logo{
+		margin:5px 0 0 5px; position:absolute; left:0; top:0;
+		}
+            
+.content-main{
+	width:1000px; margin:0 auto;
+	}
+.nav{
+	width:240px;
+	}			
+		
+.content{
+	font-family:"Trebuchet MS"; font-size:13px; background:url(images/bgAbout.gif) left top no-repeat; padding:0 20px 0 20px;
+	}	
+	.content h1{
+		font-size:21px; font-weight:normal; color:#525960; background:url(images/punktir.gif) bottom repeat-x; padding-bottom:3px; margin:10px 0 10px 0;
+		}	
+	.content h2{
+		font-size:18px; font-weight:normal; color:#525960; margin:0 0 10px 0;
+		}
+	.content h3{
+		font-size:16px; font-weight:normal; color:#525960; margin:0 0 10px 0;
+		}
+	.content h4{
+		font-size:14px; color:#525960; margin:0 0 10px 0;
+		}
+	.content h5{
+		font-size:12px; color:#525960; margin:0 0 10px 0;
+		}
+	.content h6{
+		font-size:10px; color:#525960; margin:0 0 10px 0;
+		}
+	.content p{
+		font-size:13px; color:#000; margin:0 0 20px 0;
+		}
+	.content a{
+		color:#185e7f;
+		}	
+	.content a:hover{
+		color:#057e99;
+		}
+	.content ul{
+		margin:0 0 0 20px; list-style:none;
+		}	
+		.content ul li{
+			line-height:1.8;
+			}	
+			.content ul li ul{	
+				margin:10px 0 0 20px;
+				}
+				.content ul li ul li{	
+					line-height:1.7;
+					}	
+					.content ul li ul li ul{
+						margin:5px 0 10px 20px;
+						}
+						.content ul li ul li ul li{
+							line-height:1.5;
+							}	
+	.pager{
+		list-style:none; margin: 30px 0 30px 270px!important; overflow: hidden;
+		}	
+		.pager li{
+			float:left; margin:0 4px;
+			}
+			.pager li a{
+				display:block; text-align:center; background:url(images/bgPage.gif) no-repeat center center; width:33px; font:bold 14px Tahoma; color:#fff; padding:4px 0;
+				}
+			.pager li a:hover{
+				color:#fff; text-decoration:none;
+				}
+			.pager li span{
+				display:block; text-align:center; background:url(images/bgPage.gif) no-repeat center center; width:33px; font: 13px Tahoma; color:#fff; padding:4px 0;
+				}			
+
+.txt-zag{
+	border:1px solid #666666; font:12px Tahoma; color:#333333; padding:3px 10px; width:200px;
+	}
+.txt-num{
+	border:1px solid #666666; font:12px Tahoma; color:#333333; padding:3px 10px; width:20px; text-align:center;
+	}	
+.rightbar-adm{
+	font-family:"Trebuchet MS"; width:280px;
+	}
+.rightbar-adm h1{
+	background:url(images/punktir.gif) bottom repeat-x; font-size:18px; font-weight:normal; color:#525960; margin:14px 0 15px 0; padding-bottom:3px;
+	}	
+.rightbar-adm p{
+	font:12px Tahoma; padding:0 0 5px 0;
+	}	
+.rightbar-adm a{
+	color:#185e7f; text-decoration:underline;
+	}
+.rightbar-adm ul{
+	list-style:none; margin:0 0 0 20px;
+	}	
+.rightbar-adm ul li{
+	font-size:13px;
+	}
+.rightbar-adm ul li ul{
+	margin:5px 0 13px 20px;
+	}		
+.rightbar-adm ul li ul li{
+	font-size:12px;
+	}	
+.rightbar-adm a:hover{
+	color:#185e7f; text-decoration:none;
+	}	
+.rightbar-adm select{
+	margin:0 0 10px 0;
+	}	
+.adm-product-cat-main{
+	float:left; width:50%; padding:20px 0 0 0;	
+	}
+	.adm-product-cat{
+		text-align:center; font:11px Arial; background:url(images/punktir.gif) right repeat-y; padding: 0 20px;
+		}
+		.adm-product-cat img{
+			border:1px solid #ced4dd; margin:0 auto 10px auto; display:block;
+			}	
+		.adm-product-cat a{
+			color:#185e7f;
+			}	
+		.adm-product-cat a:hover{
+			text-decoration:none;
+			}							 									
+.adm-bord-bot{
+		height:2px; width:;	background:url(images/punktir.gif) bottom repeat-x; margin: 20px 20px 0;					
+		}	
+.button-catalog-adm{
+	text-align:justify;
+	}
+	.button-catalog-adm img{
+		margin:0 10px 0 17px;
+		}				

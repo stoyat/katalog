@@ -1,0 +1,9 @@
+AddDefaultCharset utf-8
+
+php_flag magic_quotes_qpc Off
+DirectoryIndex index.php
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*) index.php
